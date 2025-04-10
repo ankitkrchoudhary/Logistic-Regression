@@ -1,0 +1,1 @@
+Welcome to my Logistic Regression project repository! This repo contains practical implementations, intuitive notes, and applied case studies that cover the core concepts of logistic regression, a key classification algorithm in machine learning.
